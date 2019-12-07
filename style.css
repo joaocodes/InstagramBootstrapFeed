@@ -1,0 +1,97 @@
+.fa-square:active {
+    background-color: grey;
+}
+
+body{
+    margin:auto;
+    overflow-x:hidden;
+    background:#eaeaea;
+}
+
+.nav-pills .nav-link.active, .nav-pills .show>.nav-link {
+    color: #fff;
+    background-color: grey;
+}
+img{
+    width:100%;
+}
+
+.col-lg-4, .col-sm-6{
+    padding-left:0px;
+    padding-right:0px;
+}
+div{
+    margin:0px;
+    padding:0px;
+}
+.nav-link{
+    color:grey;
+}
+img{
+border: 5px;
+}
+
+.container-fluid{
+    padding:0px;
+}
+
+div{
+	box-sizing: border-box;
+}
+
+.container-post h1{
+		font-family:"Arial", sans-serif;
+}
+
+.post-header h2{
+	font-family:"Arial", sans-serif;
+	font-size:18px;
+}
+
+header h1{
+	margin:0;
+}
+
+div.post{
+	background:white;
+	margin-top:40px;
+	margin-bottom: 65px;
+}
+
+div.post img{
+	width:100%;
+}
+h5{font-family: 'Handlee', cursive;}
+
+div.post h2,div.post p{
+	padding:10px;
+	margin:0px;
+}
+
+div.post .post-header div:first-child{
+	display:inline-block;
+	width:70%;
+}
+div.post .post-header div:last-child{
+	display:inline-block;
+	width:20%;
+	text-align: right;
+	padding-right: 10px;
+	color: gray;
+}
+
+
+div.container{
+	width:600px;
+	margin:auto;
+}
+
+.likes{
+    margin-top: 5px;
+    margin-left: 10px;
+    margin-bottom: 0px;
+}
+
+.post{
+    border-radius:10px;
+}
