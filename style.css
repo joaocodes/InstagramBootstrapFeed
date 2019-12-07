@@ -2,6 +2,7 @@
     background-color: grey;
 }
 
+
 body{
     margin:auto;
     overflow-x:hidden;
@@ -12,6 +13,10 @@ body{
     color: #fff;
     background-color: grey;
 }
+
+
+
+
 img{
     width:100%;
 }
@@ -61,7 +66,12 @@ div.post{
 div.post img{
 	width:100%;
 }
-h5{font-family: 'Handlee', cursive;}
+
+
+h5{
+    font-family: 'Handlee', cursive;
+    font-size: 36px;
+}
 
 div.post h2,div.post p{
 	padding:10px;
