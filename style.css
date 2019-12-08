@@ -105,3 +105,7 @@ div.container{
 .post{
     border-radius:10px;
 }
+
+.post-header{
+    color: black;
+}
